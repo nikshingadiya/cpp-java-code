@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3431f1a2-8b32-4231-b34b-6fd44654f120" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="161" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a3zHubIf3iy5qhIPo1Y31FhDWC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Circle.java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Practicle5.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle" type="Java Scratch">
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_HOME_DIR$/jbr" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Circle" />
+      <module name="Practicle5.1" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/Circle.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Java Scratch.Circle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3431f1a2-8b32-4231-b34b-6fd44654f120" name="Default Changelist" comment="" />
+      <created>1585978980563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585978980563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="22" key="#Circle" timestamp="1607916929148">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="22" key="#Circle/0.0.1366.728@0.0.1366.728" timestamp="1607916929148" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1607916774396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1607916774396" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607917326841">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1607917326841" />
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607917080518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1607917080518" />
+    <state x="534" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1607916703579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1607916703579" />
+    <state x="263" y="19" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1607916700004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1607916700004" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1607916927229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607916927229" />
+    <state width="1286" height="204" key="GridCell.Tab.0.bottom" timestamp="1607917370944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607917370944" />
+    <state width="1286" height="204" key="GridCell.Tab.0.center" timestamp="1607917370944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607917370944" />
+    <state width="1286" height="204" key="GridCell.Tab.0.left" timestamp="1607917370944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607917370944" />
+    <state width="1286" height="204" key="GridCell.Tab.0.right" timestamp="1607917370944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607917370944" />
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1607917370945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607917370945" />
+    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1607917370944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607917370944" />
+    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1607917370944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607917370944" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1607917370944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607917370944" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1607917267024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607917267024" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607917431362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607917431362" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practicle5_1$Main.ic" NAME="Main Coverage Results" MODIFIED="1607917031826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Practicle5_1$Circle.ic" NAME="Circle Coverage Results" MODIFIED="1607917111341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

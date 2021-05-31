@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+   </rowConstraints>
+   <children>
+      <Label text="RED" />
+      <Label text="GREEN" GridPane.rowIndex="1" />
+      <Slider GridPane.columnIndex="1" />
+      <Slider GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <Label text="BLUE" GridPane.rowIndex="2" />
+      <Slider GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      <Label text="Opacity" GridPane.rowIndex="3" />
+      <Slider GridPane.columnIndex="1" GridPane.rowIndex="3" />
+   </children>
+</GridPane>
